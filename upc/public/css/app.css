@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #E7E7E7;
+    background-color: #F4F4F4;
     margin: 0;
     padding: 0;
     display: flex;
@@ -15,6 +15,7 @@ body {
     justify-content: space-around; /* Distribuye el espacio alrededor de las tarjetas */
     align-items: flex-start; /* Alinea las tarjetas al comienzo de la línea */
     max-width: 1020px; /* Ancho suficiente para contener tres tarjetas con espacio */
+    margin-top: 6%;
 }
 
 .person {

@@ -15,7 +15,8 @@
         <h4 class="name">Abdullah Waris</h4>
         <div class="info">
             <h6>Estudios: <span>FP-DAW</span></h6>
-            <p>Descripción: Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
+            <p style="font-weight: bold">Descripción:</p>
+            <p>Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
         </div>
     </div>
     <div class="person">
@@ -23,7 +24,8 @@
         <h4 class="name">Shah Zaib</h4>
         <div class="info">
             <h6>Estudios: <span>FP-DAW</span></h6>
-            <p>Descripción: Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
+            <p style="font-weight: bold">Descripción:</p>
+            <p>Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
         </div>
     </div>
     <div class="person">
@@ -31,7 +33,8 @@
         <h4 class="name">Pol Moreno</h4>
         <div class="info">
             <h6>Estudios: <span>FP-DAW</span></h6>
-            <p>Descripción: Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
+            <p style="font-weight: bold">Descripción:</p>
+            <p>Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
         </div>
     </div>
     <div class="person">
@@ -39,7 +42,8 @@
         <h4 class="name">Jan Viñas</h4>
         <div class="info">
             <h6>Estudios: <span>FP-DAW</span></h6>
-            <p>Descripción: Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
+            <p style="font-weight: bold">Descripción:</p>
+            <p>Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
         </div>
     </div>
     <div class="person">
@@ -47,7 +51,8 @@
         <h4 class="name">David Peludo</h4>
         <div class="info">
             <h6>Estudios: <span>FP-DAW</span></h6>
-            <p>Descripción: Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
+            <p style="font-weight: bold">Descripción:</p>
+            <p>Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
         </div>
     </div>
     <div class="person">
@@ -55,7 +60,8 @@
         <h4 class="name">Alex Calvo</h4>
         <div class="info">
             <h6>Estudios: <span>FP-DAW</span></h6>
-            <p>Descripción: Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
+            <p style="font-weight: bold">Descripción:</p>
+            <p>Programador Full Stack con 2 años de experiencia, programa en JS y PHP, usa Angular, React y Laravel como frameworks</p>
         </div>
     </div>
 </div>
